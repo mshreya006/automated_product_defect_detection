@@ -1209,7 +1209,3 @@ print("\nTest predictions:")
 print(test_predictions_path)
 
 print("\nDone!")
-
-!git clone https://github.com/mshreya006/automated_product_defect_detection.git
-
-!ls -la /content/automated_product_defect_detection
