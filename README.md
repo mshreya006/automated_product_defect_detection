@@ -1,5 +1,4 @@
-<img width="1684" height="1488" alt="confusion_matrix" src="https://github.com/user-attachments/assets/445e0e49-efa7-4daa-9f6a-5d9e565a92c2" /># Automated Product Defect Detection Using Transfer Learning
-
+    
 ## 1. Project Overview
 
 Automated visual inspection is an important application of computer vision in manufacturing. Manual inspection of manufactured components can be time-consuming, inconsistent, and difficult to scale. This project develops an image classification system that automatically identifies whether a product image represents a normal product or a defective product.
@@ -464,7 +463,8 @@ The MobileNetV3-Small confusion matrix helps explain its higher recall but subst
 ---
 
 ## EfficientNet-B0
-<img width="1684" height="1488" alt="confusion_matrix" src="https://github.com/user-attachments/assets/43a51800-4911-4503-a4c2-f0deeddf7b1f" />
+
+<img width="1684" height="1446" alt="confusion_matrix" src="https://github.com/user-attachments/assets/3bd6121a-d8cc-4e02-ba4f-97920da204ae" />
 
 The EfficientNet-B0 confusion matrix provides additional insight into its lower recall despite achieving relatively high accuracy.
 
