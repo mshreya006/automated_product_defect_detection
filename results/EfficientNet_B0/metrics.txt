@@ -1,0 +1,11 @@
+EfficientNet-B0 Validation Results
+================================
+
+Accuracy  : 0.8500
+Precision : 0.6667
+Recall    : 0.2000
+F1 Score  : 0.3077
+
+Confusion Matrix:
+[[49  1]
+ [ 8  2]]

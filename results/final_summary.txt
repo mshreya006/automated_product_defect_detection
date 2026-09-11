@@ -1,0 +1,15 @@
+Automated Product Defect Detection
+====================================
+
+Models compared:
+1. ResNet18
+2. MobileNetV3-Small
+3. EfficientNet-B0
+
+            Model  Accuracy  Precision  Recall       F1
+         ResNet18  0.900000   1.000000     0.4 0.571429
+MobileNetV3-Small  0.733333   0.312500     0.5 0.384615
+  EfficientNet-B0  0.850000   0.666667     0.2 0.307692
+
+Best Model: ResNet18
+Best F1 Score: 0.5714

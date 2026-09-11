@@ -1,0 +1,11 @@
+MobileNetV3-Small Validation Results
+================================
+
+Accuracy  : 0.7333
+Precision : 0.3125
+Recall    : 0.5000
+F1 Score  : 0.3846
+
+Confusion Matrix:
+[[39 11]
+ [ 5  5]]

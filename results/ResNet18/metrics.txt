@@ -1,0 +1,11 @@
+ResNet18 Validation Results
+================================
+
+Accuracy  : 0.9000
+Precision : 1.0000
+Recall    : 0.4000
+F1 Score  : 0.5714
+
+Confusion Matrix:
+[[50  0]
+ [ 6  4]]
