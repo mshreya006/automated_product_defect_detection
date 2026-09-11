@@ -1,4 +1,4 @@
-# Automated Product Defect Detection Using Transfer Learning
+<img width="1684" height="1488" alt="confusion_matrix" src="https://github.com/user-attachments/assets/445e0e49-efa7-4daa-9f6a-5d9e565a92c2" /># Automated Product Defect Detection Using Transfer Learning
 
 ## 1. Project Overview
 
@@ -448,8 +448,7 @@ They show the number of:
 * True Positives
 
 ## ResNet18
-
-![ResNet18 Confusion Matrix](results/ResNet18/confusion_matrix.png)
+<img width="1684" height="1488" alt="confusion_matrix" src="https://github.com/user-attachments/assets/a4f5275d-7ccd-4ac0-a094-96f6a5f227de" />
 
 The ResNet18 confusion matrix helps visualize its high precision and relatively lower recall.
 
@@ -457,15 +456,15 @@ The ResNet18 confusion matrix helps visualize its high precision and relatively 
 
 ## MobileNetV3-Small
 
-![MobileNetV3-Small Confusion Matrix](results/MobileNetV3_Small/confusion_matrix.png)
+<img width="1684" height="1471" alt="confusion_matrix" src="https://github.com/user-attachments/assets/1669fe8d-15f6-43e1-8137-ebc87135a7fa" />
+
 
 The MobileNetV3-Small confusion matrix helps explain its higher recall but substantially lower precision.
 
 ---
 
 ## EfficientNet-B0
-
-![EfficientNet-B0 Confusion Matrix](results/EfficientNet_B0/confusion_matrix.png)
+<img width="1684" height="1488" alt="confusion_matrix" src="https://github.com/user-attachments/assets/43a51800-4911-4503-a4c2-f0deeddf7b1f" />
 
 The EfficientNet-B0 confusion matrix provides additional insight into its lower recall despite achieving relatively high accuracy.
 
